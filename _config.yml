@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Deepak Anand"
+title                    : "Swati Meena"
 title_separator          : "-"
-name                     : &name "Deepak Anand"
-description              : &description "Ph.D. Scholar, IIT Bombay"
+name                     : &name "Swati Meena"
+description              : &description "M.Tech., IIT Bombay"
 url                      : ""# the base hostname & protocol for your site e.g. "https://deepakanandece.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "deepakanandece.github.io"
+repository               : "swati210994.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Deepak Anand"
-  avatar           : "bio-photo-1.jpg"
-  bio              : "Ph.D. Scholar, IIT Bombay (Mob: 8454912860)"
+  name             : "Swati Meena"
+  avatar           : "IMG-20200402-WA0030.jpg"
+  bio              : "M.Tech., IIT Bombay (Mob: 8454912860)"
   location         : "Mumbai"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=uqL12FYAAAAJ&hl=en&oi=ao"
-  email            : "deepakanandece@gmail.com"
+  googlescholar    : #"https://scholar.google.com/citations?user=uqL12FYAAAAJ&hl=en&oi=ao"
+  email            : "swatimeena989@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "/deepakanandece"
+  github           : "/swati210994"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "deepak-anand-945575162/"
+  linkedin         : #"deepak-anand-945575162/"
   orcid            : "https://orcid.org/0000-0001-7189-6885"
   pinterest        :
   soundcloud       :
