@@ -15,7 +15,7 @@ I blog now and then compiling my personal experiences. Feel free to read a bit m
 
 ## Updates
 
-* <b> June 2020:</b> Sucessfully completed Masters thesis project on  'Pathological features discrimination in Lymph node using deep learning techniques' at [IIT Bombay]((http://www.iitb.ac.in/)) in collaboration with [Kings College London](https://www.kcl.ac.uk/).
+* <b> June 2020:</b> Sucessfully completed Masters thesis project on  'Pathological features discrimination in Lymph node using deep learning techniques' at [IIT Bombay](http://www.iitb.ac.in/) in collaboration with [Kings College London](https://www.kcl.ac.uk/).
 
 * <b> Dec 2019:</b> A paper 'Breast Cancer Histopathology Image Classification and Localization using Multiple Instance Learning got accepted at The 5th [IEEE](https://www.ieee.org/) [WIECON-ECE](https://wieconece.org/) conference, 2019 [link](https://ieeexplore.ieee.org/document/9019916). Congratulations to co-authors [Abhijeet patil](https://in.linkedin.com/in/abhijeet-patil-90945557), Dipesh Tamboli, [Deepak Anand](deepakanand.github.io) and [Amit Sethi](https://www.ee.iitb.ac.in/~asethi/).
 
@@ -25,7 +25,7 @@ I blog now and then compiling my personal experiences. Feel free to read a bit m
      alt="Markdown Monster icon" width="600"
      style="float: center; margin-right: 50px;" />
 
-* <b> Dec 2018:</b> Presented on 'Design and architecture of convolutional neural network' in M.tech. Seminar at [IIT Bombay]((http://www.iitb.ac.in/)).
+* <b> Dec 2018:</b> Presented on 'Design and architecture of convolutional neural network' in M.tech. Seminar at [IIT Bombay](http://www.iitb.ac.in/).
 
 
 
