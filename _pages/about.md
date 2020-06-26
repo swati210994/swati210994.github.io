@@ -19,7 +19,7 @@ I blog now and then compiling my personal experiences. Feel free to read a bit m
 
 * <b> June 2020:</b> Sucessfully completed Masters thesis project on  'Pathological features discrimination in Lymph node using deep learning techniques' at [IIT Bombay](http://www.iitb.ac.in/) in collaboration with [Kings College London](https://www.kcl.ac.uk/).
 
-* <b> Dec 2019:</b> A paper 'Breast Cancer Histopathology Image Classification and Localization using Multiple Instance Learning got accepted at The 5th [IEEE](https://www.ieee.org/) [WIECON-ECE](https://wieconece.org/) conference, 2019 [link](https://ieeexplore.ieee.org/document/9019916). Congratulations to co-authors [Abhijeet patil](https://in.linkedin.com/in/abhijeet-patil-90945557), Dipesh Tamboli, [Deepak Anand](https://deepakanandece.github.io/) and [Amit Sethi](https://www.ee.iitb.ac.in/~asethi/).
+* <b> Dec 2019:</b> A paper 'Breast Cancer Histopathology Image Classification and Localization using Multiple Instance Learning got accepted at The 5th [IEEE](https://www.ieee.org/) [WIECON-ECE](https://wieconece.org/) conference, 2019 [Paper Link](https://ieeexplore.ieee.org/document/9019916). Congratulations to co-authors [Abhijeet patil](https://in.linkedin.com/in/abhijeet-patil-90945557), Dipesh Tamboli, [Deepak Anand](https://deepakanandece.github.io/) and [Amit Sethi](https://www.ee.iitb.ac.in/~asethi/).
 
 * <b> Dec 2019:</b> <b>Best paper Award</b> at the 5th [IEEE](https://www.ieee.org/) [WIECON-ECE](https://wieconece.org/) conference, 2019.
 
