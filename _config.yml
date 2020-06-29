@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Swati Meena"
   avatar           : "IMG-20200402-WA0030.jpg"
-  bio              : "M.Tech., IIT Bombay (Mob: 8454912860)"
+  bio              : "M.Tech., IIT Bombay (Mob: 8404985509)"
   location         : "Mumbai"
   employer         : 
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : #"deepak-anand-945575162/"
-  orcid            : "https://orcid.org/0000-0001-7189-6885"
+  orcid            : # "https://orcid.org/0000-0001-7189-6885"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
