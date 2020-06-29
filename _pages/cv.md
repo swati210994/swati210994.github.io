@@ -28,11 +28,16 @@ Work experience
     * Building and evaluating assignments and projects.
     * Assisting instructors in conducting lab sessions and exams for a batch of students.
     * Tutorials in lab sessions.
+ * <b>CareerPedia</b>
+  * Worked as business development intern for a period of one month in Pune, Maharshtra.
+  * Organised 7 awareness drives for students and parents to guide students towards their career goals.
+  * Partnered with 4 schools to create awareness through career pedia application.
+
    
 Extra Curricular & Scholastic Achievements
 ======
 * Securing <b>AA</b> grade in M.Tech. seminar, IIT Bombay
-* Active member of Abhay dramatics club, IIT (ISM) Dhanbad, 2013-17
+* Active member of [Abhay dramatics club](https://www.facebook.com/abhaydramaticsclub/), IIT (ISM) Dhanbad, 2013-17
 
    
 Projects & Talks
@@ -53,5 +58,5 @@ Technical Skills
 ======
 
 | <b>Programming languages</b> |                <b>Python, C/C++</b>               |
-|   <b>Software Libraries</b>  |       <b>TensorFlow, PyTorch, Keras, Torch</b>       |
+|   <b>Software Libraries</b>  |       <b>Scikit-learn, TensorFlow, PyTorch, Keras, Torch</b>       |
 |         <b>Tools</b>         | <b>MATLAB, Latex </b> |
