@@ -28,7 +28,7 @@ Work experience
     * Building and evaluating assignments and projects.
     * Assisting instructors in conducting lab sessions and exams for a batch of students.
     * Tutorials in lab sessions.
- * <b>CareerPedia</b>
+* <b>CareerPedia</b>
   * Worked as business development intern for a period of one month in Pune, Maharshtra.
   * Organised 7 awareness drives for students and parents to guide students towards their career goals.
   * Partnered with 4 schools to create awareness through career pedia application.
