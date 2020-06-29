@@ -4,7 +4,7 @@ collection: talks
 type: "Project"
 permalink: /talks/srg
 venue: "Department of Electrical Engineering, IIT Bombay"
-date: 2018-11
+date: 2018-11-15
 location: "Mumbai, India"
 ---
 [More information here](https://www.ee.iitb.ac.in/~eestudentrg/sessions.php?phase=8#s84)
