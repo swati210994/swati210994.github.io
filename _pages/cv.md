@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* <b>Ph.D</b> in Electrical Engineering, Indian Institute of Technology Bombay, 2019 (expected)
-* <b>B.Tech.</b> in Electronics and Communication Engineering, Dr. M.G.R. Educational and Research Institute Chennai, 2012
+* <b>M.tech.</b> in Electrical Engineering, [Indian Institute of Technology Bombay](www.iitb.ac.in), 2020
+* <b>B.Tech.</b> in Electronics and Communication Engineering, [ISM (IIT) Dhanbad](www.iitism.ac.in), 2017
 
 Publications
 ======
@@ -22,27 +22,18 @@ Publications
   
 Work experience
 ======
-* <b> Lab Administrator 2014-19: Lab Administrator </b>
+* <b> Teaching Assistant 2018-20:</b>
   * Indian Institute of Technology Bombay
   * Duties included: 
-    * Building deep learning servers
-    * Tutorials on PyTorch, TensorFlow, Python and GitHub
-    * Tutorials on best coding practices
-   * Supervisor: Professor Amit Sethi
-* <b> Project Staff 2012-13: Project Assistant </b>
-  * Indian Institute of Technology Hyderabad
-  * Duties included:
-    * Development of Piezo-electric sensor
-    * Interfacing of the sensor with driver electronics
-  * Supervisor: Professor Ranjith Ramadurai 
-
-Scholastic Achievements
+    * Building and evaluating assignments and projects.
+    * Assisting instructors in conducting lab sessions and exams for a batch of students.
+    * Tutorials in lab sessions.
+   
+Extra Curricular & Scholastic Achievements
 ======
-* Recipient PG Passing-out Color (Sports), Gymkhana Awards 2018-2019, IIT Bombay
-* Reviewer for CDC 2019
-* Reviewer for MICCAI 2018
-* Judge for e-Yantra Symposium(eYS) 2018
-* Judge for  Avriti 2018, Avriti 2017
+* Securing <b>AA</b> grade in M.Tech. seminar, IIT Bombay
+* Active member of Abhay dramatics club, IIT (ISM) Dhanbad, 2013-17
+
    
 Projects & Talks
 ======
@@ -52,14 +43,15 @@ Projects & Talks
 
 Service and leadership
 ======
-* Mentored and collaborated in 10 master thesis at Electrical Engineering, IIT Bombay
-* Coach and Manager for National Ultimate Frisbee Team, IIT Bombay (2017-2019)
-* Sports Councilor, Hostel 1, IIT Bombay (2016-2017)
-* Teaching Assitant for Introduction to Machine Learning, Digital Image Processing, Applied Linear Algebra, Matrix Computations.
+* <b>Samitra NGO</b>
+  * Executed 4 cleanliness drives in Dhanbad which witnessed participation of around 1000 individuals.
+  * Distributed 1500+ clothes by volunteering in 10 cloth donation drives in and around Dhanbad.
+  * Organized Arise Lantern festival to celebrate Diwali with Divyang Children of Jeevan Jyoti NGO.
+* Teaching Assitant for Communication lab, Digital Signal Processing, Optical fibre optics, Introduction to electrical and electronics.
 
 Technical Skills
 ======
 
-| <b>Programming languages</b> |                <b>Python, C/C++, R</b>               |
+| <b>Programming languages</b> |                <b>Python, C/C++</b>               |
 |   <b>Software Libraries</b>  |       <b>TensorFlow, PyTorch, Keras, Torch</b>       |
-|         <b>Tools</b>         | <b>MATLAB, NI Labview, Scilab, Sage, Mathematica</b> |
+|         <b>Tools</b>         | <b>MATLAB, Latex </b> |
