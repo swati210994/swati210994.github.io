@@ -16,4 +16,4 @@ MASI, and EMA. Evaluated extensive comparisons among the metrics MSE, MAE, and p
   * Implemented different models such as linear regression, support vector regression and ANN.
   * Achieved error rate as low as 0.64% using support vector regression in NIFTY index prediction.
   
-The resources for the talk are [here](/images/srg.pdf "Presentation PDF").
+The resources for the talk are [here](/images/Project.zip).
