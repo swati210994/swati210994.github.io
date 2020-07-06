@@ -11,7 +11,6 @@ My name is Swati Meena, and I am a Masters in the [Department of Electrical Engi
 
 I maintain a list of my publications and research implementations under the [Publications]({{ site.url }}/publications) tab. To get an insight into my professional life so far, you can have a look at my [CV](/images/Deepak_anand.pdf).
 
-I blog now and then compiling my personal experiences. Feel free to read a bit more about me!
 
 ## Updates
 
