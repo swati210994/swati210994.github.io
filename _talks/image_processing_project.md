@@ -15,6 +15,6 @@ This project is based on recognizing potholes and avoiding road accidents.
   preprocessing using image labeler tool in MATLAB for pixel level classification.
   * Trained the network with 240 images and extensive comparisons with techniques such as edge detection and
   thresholding on dataset images. Achieved validation accuracy of 62.5%.
-The resources for the talk are [here](/images/srg.pdf "Presentation PDF").
+The resources for the talk are [here](/images/IP_project.pdf "Presentation PDF").
 
 
