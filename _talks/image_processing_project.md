@@ -7,7 +7,7 @@ venue: "Department of Electrical Engineering, IIT Bombay"
 date: 2018-11-15
 location: "Mumbai, India"
 ---
-[More information here](https://www.ee.iitb.ac.in/~eestudentrg/sessions.php?phase=8#s84)
+[More information here](/images/IP_Project.zip)
 
 This project is based on recognizing potholes and avoiding road accidents.
 * Project description:
