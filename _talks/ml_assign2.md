@@ -7,12 +7,10 @@ venue: "Department of Electrical Engineering, IIT Bombay"
 date: 2019-04-14
 location: "Mumbai, India"
 ---
-[More information here](https://www.ee.iitb.ac.in/~eestudentrg/sessions.php?phase=8#s84)
+[More information here](/images/swati_183070009_ml3.zip)
 
 This project is based on recognizing potholes and avoiding road accidents.
 * Project description:
   *  Developed a softmax classifier for classification of hyperspectral remote sensing images and trained the classifier
 using maximum likelihood criteria.
   * Achieved accuracy of 83.5 % on Indian Pines dataset having 224 channels and 16 ground truth.
-  
-The resources for the talk are [here](/images/srg.pdf "Presentation PDF").
