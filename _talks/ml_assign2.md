@@ -9,7 +9,6 @@ location: "Mumbai, India"
 ---
 [More information here](/images/swati_183070009_ml3.zip)
 
-This project is based on recognizing potholes and avoiding road accidents.
 * Project description:
   *  Developed a softmax classifier for classification of hyperspectral remote sensing images and trained the classifier
 using maximum likelihood criteria.
