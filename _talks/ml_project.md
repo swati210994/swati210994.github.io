@@ -9,7 +9,6 @@ location: "Mumbai, India"
 ---
 [More information here](/images/Project.zip)
 
-This project is based on recognizing potholes and avoiding road accidents.
 * Project description:
   * Processed past 10 years financial data from Yahoo Finance to extract technical indicator features such as RSI,
 MASI, and EMA. Evaluated extensive comparisons among the metrics MSE, MAE, and percentage error.
