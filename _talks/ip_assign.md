@@ -2,7 +2,7 @@
 title: "Image Basic editor"
 collection: talks
 type: "Project"
-permalink: /talks/ip_assign.md
+permalink: /talks/
 venue: "Department of Electrical Engineering, IIT Bombay"
 date: 2018-06-15
 location: "Mumbai, India"
