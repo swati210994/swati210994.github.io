@@ -2,7 +2,7 @@
 title: "Pothole detection and avoidance system"
 collection: talks
 type: "Project"
-permalink: /talks/image_processing_project.md
+permalink: /talks/
 venue: "Department of Electrical Engineering, IIT Bombay"
 date: 2018-11-15
 location: "Mumbai, India"
