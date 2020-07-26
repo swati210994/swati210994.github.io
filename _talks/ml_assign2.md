@@ -2,7 +2,6 @@
 title: "Automatic Pixel-wise Labeling"
 collection: talks
 type: "Project"
-permalink: /talks/srg
 venue: "Department of Electrical Engineering, IIT Bombay"
 date: 2019-04-14
 location: "Mumbai, India"
