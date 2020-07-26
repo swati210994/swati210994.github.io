@@ -13,4 +13,4 @@ location: "Mumbai, India"
 
 <img src="/images/image_editor.jpg"
      alt="Markdown Monster icon" width="600"
-     style="float: center; margin-right: 50px;" />
+     style="float: center; margin-right: 70px;" />
