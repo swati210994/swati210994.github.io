@@ -50,8 +50,23 @@ Service and leadership
 ======
 * <b>Samitra NGO</b>
   * Executed 4 cleanliness drives in Dhanbad which witnessed participation of around 1000 individuals.
+  
+  <img src="/images/cleanliness.jpg"
+     alt="Markdown Monster icon" width="600"
+     style="float: center; margin-right: 50px;" />
+     
   * Distributed 1500+ clothes by volunteering in 10 cloth donation drives in and around Dhanbad.
+  
+  <img src="/images/samitra_github.jpg"
+     alt="Markdown Monster icon" width="600"
+     style="float: center; margin-right: 50px;" />
+     
   * Organized Arise Lantern festival to celebrate Diwali with Divyang Children of Jeevan Jyoti NGO.
+  
+  <img src="/images/arise.jpg"
+     alt="Markdown Monster icon" width="600"
+     style="float: center; margin-right: 50px;" />
+     
 * Teaching Assitant for Communication lab, Digital Signal Processing, Optical fibre optics, Introduction to electrical and electronics.
 
 Technical Skills
