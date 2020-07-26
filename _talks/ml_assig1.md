@@ -2,7 +2,7 @@
 title: "Credit card fraud detection system."
 collection: talks
 type: "Project"
-permalink:www.google.com
+permalink:"www.google.com"
 venue: "Department of Electrical Engineering, IIT Bombay"
 date: 2019-02-14
 location: "Mumbai, India"
