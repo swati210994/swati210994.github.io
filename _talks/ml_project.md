@@ -11,7 +11,13 @@ location: "Mumbai, India"
 
 * Project description:
   * Processed past 10 years financial data from Yahoo Finance to extract technical indicator features such as RSI,
-MASI, and EMA. Evaluated extensive comparisons among the metrics MSE, MAE, and percentage error.
+MASI, and EMA. 
+
+ <img src="/images/ML_project_data.png"
+     alt="Markdown Monster icon" width="600"
+     style="float: center; margin-right: 70px;" />
+     
+  * Evaluated extensive comparisons among the metrics MSE, MAE, and percentage error.
   * Implemented different models such as linear regression, support vector regression and ANN.
   * Achieved error rate as low as 0.64% using support vector regression in NIFTY index prediction.
   
