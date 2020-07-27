@@ -39,7 +39,7 @@ Extra Curricular & Scholastic Achievements
 * Securing <b>AA</b> grade in M.Tech. seminar, IIT Bombay
 * Active member of [Abhay dramatics club](https://www.facebook.com/abhaydramaticsclub/), IIT (ISM) Dhanbad, 2013-17
 
-<iframe width="1280" height="723" src="https://www.youtube.com/embed/RFG36AYPEWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="623" src="https://www.youtube.com/embed/RFG36AYPEWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
 Projects & Talks
 ======
