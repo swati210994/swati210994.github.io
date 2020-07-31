@@ -22,7 +22,7 @@ MASI, and EMA. This project focuses on predicting stock price trend for a compan
     * Technical indicators used:
       * Money Flow Index (MFI)
       * Relative Strength Index (RSI)
-        <a href="https://www.codecogs.com/eqnedit.php?latex=100-[100/(1&plus;(Average&space;of&space;upward&space;price&space;change/Average&space;of&space;downward&space;price&space;change))]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?100-[100/(1&plus;(Average&space;of&space;upward&space;price&space;change/Average&space;of&space;downward&space;price&space;change))]" title="100-[100/(1+(Average of upward price change/Average of downward price change))]" /></a>
+        <a href="https://www.codecogs.com/eqnedit.php?latex=100-[100/(1&plus;(Average&space;&space;of&space;&space;upward&space;&space;price&space;change/Average&space;of&space;downward&space;price&space;change))]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?100-[100/(1&plus;(Average&space;of&space;upward&space;price&space;change/Average&space;of&space;downward&space;price&space;change))]" title="100-[100/(1+(Average of upward price change/Average of downward price change))]" /></a>
         
       * Exponential Moving average (EMI)
       * Stochastic Oscillator (SO)
