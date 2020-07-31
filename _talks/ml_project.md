@@ -12,6 +12,7 @@ location: "Mumbai, India"
 * Project description:
   * Processed past 10 years financial data from Yahoo Finance to extract technical indicator features such as RSI,
 MASI, and EMA. 
+ * The prepared dataset look like these.
 
  <img src="/images/ML_project_data.png"
      alt="Markdown Monster icon" width="600"
