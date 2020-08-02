@@ -20,12 +20,37 @@ MASI, and EMA. This project focuses on predicting stock price trend for a compan
     * Technical indicators use statistical properties of the present and previous samples, so it can be considered as more           related feature as it becomes easy to uptrend and downtrend.
     
     * Technical indicators used:
-      * Money Flow Index (MFI)
+      
       * Relative Strength Index (RSI)
+        * Measures speed and change of price movements.
+        * Generally, oscillates between 0 and 100, we consider overbrought above 70 and oversold below 30.
+        
         <a href="https://www.codecogs.com/eqnedit.php?latex=100-[100/(1&plus;(Average&space;&space;of&space;&space;upward&space;&space;price&space;change/Average&space;of&space;downward&space;price&space;change))]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?100-[100/(1&plus;(Average&space;of&space;upward&space;price&space;change/Average&space;of&space;downward&space;price&space;change))]" title="100-[100/(1+(Average of upward price change/Average of downward price change))]" /></a>
         
+      * Money Flow Index (MFI)
+         * Related to RSI but incorporates volume too where RSI considers prices only.
+         * Typical Price = (High + Low + Close)/3
+         * Money Flow (not the Money Flow Index) is calculated by multiplying the period's Typical Price by the volume.
+         * Money Flow = Typical Price * Volume
+         * If today's Typical Price is greater than yesterday's typical Price,it is considered Positive Money Flow.
+         *  If today's price is less, it is considered Negative Money Flow.
+         * Money Ratio = Positive Money Flow / Negative Money Flow. ● Finally money flow index is calculated using money                  ratio.
+        
       * Exponential Moving average (EMI)
+        * SMA = avg of price data, EMA = more weight to data which is more current.
+        * EMA is more sensitive to price movement ● EMA used to determine trend direction
+        * EMA = (K x (C - P)) + P
+          where, C = Current Price
+          P = Previous periods EMA (A SMA is used for the first periods calculations)
+          K = Exponential smoothing constant.
+      
       * Stochastic Oscillator (SO)
+        * Shows the location of the close relative to high-low range over a set number of periods.
+        * The default setting is 14 periods, which can be days,weeks,months or an intraday timeframe.
+        * K=100[(C-L5close)➗(H5-L5)]
+          C=the most recent closing price
+          L5=the low of the five previous trading sessions
+          H5=the highest price traded during the same five-day pe
       
   * Evaluated extensive comparisons among the metrics MSE, MAE, and percentage error.
   
