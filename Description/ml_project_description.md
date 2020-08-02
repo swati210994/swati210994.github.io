@@ -23,6 +23,7 @@ MASI, and EMA. This project focuses on predicting stock price trend for a compan
       
       * Relative Strength Index (RSI)
         * Measures speed and change of price movements.
+          RSI = 100 – [100 / ( 1 + (Average of Upward Price Change / Average of Downward Price Change))]
         * Generally, oscillates between 0 and 100, we consider overbrought above 70 and oversold below 30.
         
         <a href="https://www.codecogs.com/eqnedit.php?latex=100-[100/(1&plus;(Average&space;&space;of&space;&space;upward&space;&space;price&space;change/Average&space;of&space;downward&space;price&space;change))]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?100-[100/(1&plus;(Average&space;of&space;upward&space;price&space;change/Average&space;of&space;downward&space;price&space;change))]" title="100-[100/(1+(Average of upward price change/Average of downward price change))]" /></a>
@@ -34,11 +35,11 @@ MASI, and EMA. This project focuses on predicting stock price trend for a compan
          * Money Flow = Typical Price * Volume
          * If today's Typical Price is greater than yesterday's typical Price,it is considered Positive Money Flow.
          *  If today's price is less, it is considered Negative Money Flow.
-         * Money Ratio = Positive Money Flow / Negative Money Flow. ● Finally money flow index is calculated using money                  ratio.
-        
+         * Money Ratio = Positive Money Flow / Negative Money Flow.
+         
       * Exponential Moving average (EMI)
         * SMA = avg of price data, EMA = more weight to data which is more current.
-        * EMA is more sensitive to price movement ● EMA used to determine trend direction
+        * EMA is more sensitive to price movement and used to determine trend direction
         * EMA = (K x (C - P)) + P
           where, C = Current Price
           P = Previous periods EMA (A SMA is used for the first periods calculations)
