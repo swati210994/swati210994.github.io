@@ -21,7 +21,7 @@ MASI, and EMA. This project focuses on predicting stock price trend for a compan
     
     * Technical indicators used:
       
-      * <font color="red">Relative Strength Index (RSI)</font>
+      * Relative Strength Index (RSI)
         * Measures speed and change of price movements.
         * RSI = 100 – [100 / ( 1 + (Average of Upward Price Change / Average of Downward Price Change))]
         * Generally, oscillates between 0 and 100, we consider overbrought above 70 and oversold below 30.
