@@ -51,6 +51,8 @@ MASI, and EMA. This project focuses on predicting stock price trend for a compan
           C=the most recent closing price <br/>
           L5=the low of the five previous trading sessions <br/>
           H5=the highest price traded during the same five-day pe
+          
+      * [Jupyter Notebook for Technical indicators calculations](/notebooks/Technical_indicator_cal.ipynb)
       
   * Evaluated extensive comparisons among the metrics MSE, MAE, and percentage error.
   * Implemented different models such as linear regression, support vector regression and ANN.
