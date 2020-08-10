@@ -2,7 +2,7 @@
 title: Daily stock price prediction of NIFTY index and various campanies listed in NSE.
 collection: talks
 type: "Project"
-permalink: https://swati210994.github.io/Description/ml_project_description
+permalink: /Description/
 venue: "Department of Electrical Engineering, IIT Bombay"
 date: 2019-05-10
 location: "Mumbai, India"
