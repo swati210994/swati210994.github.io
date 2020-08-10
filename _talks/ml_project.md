@@ -1,5 +1,5 @@
 ---
-title: ["Daily stock price prediction of NIFTY index and various campanies listed in NSE."](/Description/ml_project_description.md)
+title: [Daily stock price prediction of NIFTY index and various campanies listed in NSE.]([https://swati210994.github.io/Description/ml_project_description)
 collection: talks
 type: "Project"
 permalink: /talks/ml_project
