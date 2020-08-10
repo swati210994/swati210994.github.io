@@ -1,12 +1,12 @@
 ---
-title: ["Daily stock price prediction of NIFTY index and various campanies listed in NSE."](/Description/ml_project_description/)
+title: "Daily stock price prediction of NIFTY index and various campanies listed in NSE."
 collection: talks
 type: "Project"
 venue: "Department of Electrical Engineering, IIT Bombay"
 date: 2019-05-10
 location: "Mumbai, India"
 ---
-[More information here](/images/Project.zip)
+[More information here](/Description/ml_project_description/)
 
 * Project description:
   * Processed past 10 years financial data from Yahoo Finance to extract technical indicator features such as RSI,
