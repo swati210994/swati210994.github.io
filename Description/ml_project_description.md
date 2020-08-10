@@ -66,4 +66,4 @@ MASI, and EMA. This project focuses on predicting stock price trend for a compan
      
   * Achieved error rate as low as 0.64% using support vector regression in NIFTY index prediction.
   
-The resources for the talk are [here](/images/Presentation-Report.pdf).
+The resources for the Project are [here](/images/Presentation-Report.pdf).
