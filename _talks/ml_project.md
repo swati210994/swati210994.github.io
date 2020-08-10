@@ -27,7 +27,7 @@ MASI, and EMA. This project focuses on predicting stock price trend for a compan
     
   * Created Indictor functions:
   
-    * Technical indicators use statistical properties of the present and previous samples, so it can be considered as more           related feature as it becomes easy to uptrend and downtrend.
+    * Technical indicators use statistical properties of the present and previous samples, so it can be considered as more related feature as it becomes easy to       uptrend and downtrend.
     
     * Technical indicators used:
       
