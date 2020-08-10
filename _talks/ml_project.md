@@ -1,5 +1,5 @@
 ---
-title: Daily stock price prediction of NIFTY index and various campanies listed in NSE.
+title: "Daily stock price prediction of NIFTY index and various campanies listed in NSE."
 collection: talks
 type: "Project"
 permalink: /Description/
