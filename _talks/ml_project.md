@@ -6,7 +6,7 @@ venue: "Department of Electrical Engineering, IIT Bombay"
 date: 2019-05-10
 location: "Mumbai, India"
 ---
-[More information here](/Description/ml_project_description/)
+[More information here](/Description/ml_project_description.md)
 
 * Project description:
   * Processed past 10 years financial data from Yahoo Finance to extract technical indicator features such as RSI,
