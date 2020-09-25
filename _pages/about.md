@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Swati Meena, and I am a Data scientist at [Sprinklr](https://www.sprinklr.com/). I have worked in the area of deep learning applications to the medical images specifically for breast cancer diagnosis and prognosis at MeDAL (Medical Deep Learning and Artificial Intelligence Lab). I have worked in the area with pathology images. I also have a keen interest in the field of Computer vision, and Natural language processing.
 
-I maintain a list of my publications and research implementations under the [Publications]({{ site.url }}/publications) tab. To get an insight into my professional life so far, you can have a look at my [CV](/images/183070009_0.pdf).
+I maintain a list of my publications and research implementations under the [Publications]({{ site.url }}/publications) tab. To get an insight into my professional life so far, you can have a look at my [CV].
 
 
 ## Updates
