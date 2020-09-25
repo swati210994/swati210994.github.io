@@ -14,7 +14,7 @@ I maintain a list of my publications and research implementations under the [Pub
 
 ## Updates
 
-* <b>Present:</b> Joined [Sprinklr](https://www.sprinklr.com/) as a <b>Data Scientist</b> intern and working on a spam detection model.
+* <b>Present:</b> Joined [Sprinklr](https://www.sprinklr.com/) as a <b>Data Scientist</b>.
 
 * <b> July 2020:</b> Completed Masters in the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web) at [IIT Bombay](http://www.iitb.ac.in/).
 
